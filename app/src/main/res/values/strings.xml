@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Signals from mars</string>
+    <string name="main_button">START YOUR ADVENTURE HERE</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="key_name">name</string>
+
+</resources>
